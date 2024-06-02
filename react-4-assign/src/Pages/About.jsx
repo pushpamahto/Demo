@@ -9,6 +9,7 @@ const About = () => {
         </Heading>
     </Box>
   )
+  
 }
 
 export default About
